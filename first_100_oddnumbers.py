@@ -5,3 +5,4 @@ for i in range(100):
         a.append(i)
 
 print a
+#[i for i in range(100) if i%2!=0]
